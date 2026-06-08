@@ -2,7 +2,7 @@
 # 📊 Telecom Customer Churn Analysis
 ### SQL + Power BI End-to-End Data Analytics Project
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]([dashboard_preview.png](https://github.com/tauqeerrrrr/Telecom-Customer-Churn-Analysis-Mysql-power-bi-/tree/main))
 
 ---
 
